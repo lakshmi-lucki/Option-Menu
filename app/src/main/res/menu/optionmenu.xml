@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_home"
+        android:enabled="true"
+        android:title="Home">
+
+    </item>
+
+    <item
+        android:id="@+id/id_Profile"
+        android:enabled="true"
+        android:title="My Profile">
+
+    </item>
+
+    <item
+        android:id="@+id/id_set"
+        android:enabled="true"
+        android:title="Settings">
+
+    </item>
+    <item
+        android:id="@+id/id_signout"
+        android:enabled="true"
+        android:title="Signout">
+
+    </item>
+</menu>
